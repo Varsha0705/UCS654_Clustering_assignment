@@ -45,7 +45,7 @@ Performance of each method was evaluated using:
 
 ## Repository Contents
 
-- `iris_clustering_analysis.ipynb`: Complete analysis notebook (Google Colab)
+- `clustering.ipynb`: Complete analysis notebook (Google Colab)
 - `README.md`: Project documentation
 
 ## Usage Instructions
